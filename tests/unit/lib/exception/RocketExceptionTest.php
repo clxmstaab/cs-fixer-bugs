@@ -1,6 +1,6 @@
 <?php
 
-class SensitiveMaskUtils extends RocketTestCase
+class ocketExceptionTest extends RocketTestCase
 {
     /**
      * @see CLX6-258
