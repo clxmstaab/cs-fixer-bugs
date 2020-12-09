@@ -1,0 +1,12 @@
+.idea
+.php_cs.cache
+
+/vendor/
+/vendor-bin/**/vendor
+/node_modules/
+
+php_errors.log
+composer.lock
+
+builtin/public/css/cms/src/**
+builtin/public/js/cms/src/**
