@@ -4,10 +4,6 @@ $finder = PhpCsFixer\Finder::create()
     ->exclude('views')
     ->exclude('public')
     ->in([
-        'builtin',
-        'lib',
-        'helpers',
-        'scripts',
         'tests',
     ])
 ;
