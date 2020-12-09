@@ -1,0 +1,10 @@
+{
+    "config" : {
+        "platform" : {
+            "php": "7.0.33"
+        }
+    },
+    "require": {
+        "friendsofphp/php-cs-fixer": "2.17.1"
+    }
+}
